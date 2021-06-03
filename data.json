@@ -5,7 +5,8 @@
       "species" : "Cat",
       "favFoods" : ["wet food", "dry food", "<strong>any</strong> food"],
       "birthYear" : 2016,
-      "photo" : "https://cdn.britannica.com/s:800x1000/22/206222-050-3F741817/Domestic-feline-tabby-cat.jpg"
+      "photo" : "https://cdn.britannica.com/s:800x1000/22/206222-050-3F741817/Domestic-feline-tabby-cat.jpg",
+      "url" : "https://www.britannica.com/story/why-do-cats-hate-water"
    
     },
     {
