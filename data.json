@@ -11,14 +11,14 @@
       "name" : "Barksalot",
       "species" : "Dog",
       "birthYear" : 2008,
-      "photo" : "https://github.com/Meenakshi2000/HandleBars2/blob/main/dog-1.jpg"
+      "photo" : "https://www.cdc.gov/healthypets/images/pets/cute-dog-headshot.jpg"
     },
     {
       "name" : "Meowsalot",
       "species" : "Cat",
       "favFoods" : ["tuna", "catnip", "celery"],
       "birthYear" : 2012,
-      "photo" : "https://github.com/Meenakshi2000/HandleBars2/blob/main/cat-2.jpg"
+      "photo" : "https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg"
     }
   ]
 }
