@@ -5,14 +5,14 @@
       "species" : "Cat",
       "favFoods" : ["wet food", "dry food", "<strong>any</strong> food"],
       "birthYear" : 2016,
-      "photo" : "https://cdn.britannica.com/s:800x1000/22/206222-050-3F741817/Domestic-feline-tabby-cat.jpg",
+      "photo" : "https://cdn.britannica.com/s:800x1000/22/206222-050-3F741817/Domestic-feline-tabby-cat.jpg"
    
     },
     {
       "name" : "Barksalot",
       "species" : "Dog",
       "birthYear" : 2008,
-      "photo" : "https://www.newagepet.com/wp-content/uploads/ECOH203GN_ecoFLEX_Rustic-Lodge-Dog-House_1-247x165.jpg",
+      "photo" : "https://www.newagepet.com/wp-content/uploads/ECOH203GN_ecoFLEX_Rustic-Lodge-Dog-House_1-247x165.jpg"
  
     },
     {
