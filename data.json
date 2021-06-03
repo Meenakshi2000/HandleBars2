@@ -1,24 +1,24 @@
 {
-    "Directory": [
-      {
-        "name" : "Meenakshi",
-        "Place" : "Delhi",
-        "favFoods" : ["Ice-cream", "orange", "<strong>Home-cooked Food</strong> "],
-        "birthYear" : 2000,
-        "photo" : "https://github.com/Meenakshi2000/HandleBars2/blob/main/bubble.png"
-      },
-      {
-        "name" : "Swati",
-        "Place" : "New Delhi",
-        "birthYear" : 1997,
-        "photo" : "https://github.com/Meenakshi2000/HandleBars2/blob/main/bubble1.png"
-      },
-      {
-        "name" : "Renu",
-        "Place" : "Gurugram",
-        "favFoods" : ["Fish", "meat", "chicken"],
-        "birthYear" : 2021,
-        "photo" : "https://github.com/Meenakshi2000/HandleBars2/blob/main/Bubbles_15.png"
-      }
-    ]
-  }
+  "pets": [
+    {
+      "name" : "Purrsloud",
+      "species" : "Cat",
+      "favFoods" : ["wet food", "dry food", "<strong>any</strong> food"],
+      "birthYear" : 2016,
+      "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+    },
+    {
+      "name" : "Barksalot",
+      "species" : "Dog",
+      "birthYear" : 2008,
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "name" : "Meowsalot",
+      "species" : "Cat",
+      "favFoods" : ["tuna", "catnip", "celery"],
+      "birthYear" : 2012,
+      "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+    }
+  ]
+}
