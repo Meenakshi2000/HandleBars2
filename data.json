@@ -1,16 +1,16 @@
 {
   "pets": [
     {
-      "name" : "Purrsloud",
+      "name" : "feline",
       "species" : "Cat",
-      "favFoods" : ["wet food", "dry food", "<strong>any</strong> food"],
+      "favFoods" : ["wet food", "dry food", "<strong>Whiskas Canned food</strong>"],
       "birthYear" : 2016,
       "photo" : "https://cdn.britannica.com/s:800x1000/22/206222-050-3F741817/Domestic-feline-tabby-cat.jpg",
       "url" : "https://www.britannica.com/story/why-do-cats-hate-water"
    
     },
     {
-      "name" : "Barksalot",
+      "name" : "Rustic Lodge",
       "species" : "Dog",
       "birthYear" : 2008,
       "photo" : "https://www.newagepet.com/wp-content/uploads/ECOH203GN_ecoFLEX_Rustic-Lodge-Dog-House_1-247x165.jpg",
@@ -18,7 +18,7 @@
  
     },
     {
-      "name" : "Meowsalot",
+      "name" : "Jaffa",
       "species" : "Cat",
       "favFoods" : ["tuna", "catnip", "celery"],
       "birthYear" : 2012,
